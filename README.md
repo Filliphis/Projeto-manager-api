@@ -49,8 +49,6 @@ Crie um banco de dados no PostgreSQL.
 
 Atualize o arquivo .env com as credenciais do banco de dados:
 ```
-.env
-
 DB_HOST=localhost
 DB_USER=seu_usuario
 DB_PASSWORD=sua_senha
